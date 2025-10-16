@@ -1,0 +1,1 @@
+Save the zip file in your Themes folder on an SD card that has Onion OS installed.  Navigate to Apps > Themes and choose the theme.  This comes with icons so make sure the "install icons" toggle is on.
