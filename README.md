@@ -1,6 +1,6 @@
 Theme: Michigan Wolverines by jyamoty
 
-This is a custom Michigan Wolverines football theme with a theme song included for use with Onion OS.
+This is a custom Michigan Wolverines football theme with a theme song and custom icons included for use with Onion OS.
 
 Save the zip file in your Themes folder on an SD card that has Onion OS installed.  Navigate to Apps > Themes and choose the theme.  This comes with icons so make sure the "install icons" toggle is on.
 
